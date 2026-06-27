@@ -304,6 +304,7 @@ sudo crictl version
 The final result is a working multi-node Kubernetes cluster running on AWS EC2 with:
 
 * Ubuntu control-plane node
+* RHEL worker nodes
 * CRI-O runtime
 * Calico networking
 * Working pod scheduling
